@@ -1,0 +1,22 @@
+input[type=button] {
+    background-color: black;
+    height: 50px;
+    width: 150px;
+    font-size: 20px;
+    padding: 10px;
+    margin: 55px;
+    opacity: 0.8;
+    border-radius: 100%;
+    color: ivory;
+    border: solid 2px ivory;
+    box-shadow: 2px 2px 5px black, 0 0 100px ivory, 0 0 50px blanchedalmond;
+}
+
+input[type=button]:hover {
+    height: 60px;
+    width: 160px;
+    color: cornflowerblue;
+
+}
+
+

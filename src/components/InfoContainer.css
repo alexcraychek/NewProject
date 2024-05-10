@@ -1,0 +1,19 @@
+.info-container {
+    color: beige;
+    opacity: 0.8;
+    position: absolute;
+    left: 25vw;
+    background: linear-gradient(to bottom, #339, #333 0%, black 0%, #333 65%);
+    height: 100%;
+    width: 75vw;
+
+}
+
+.info-message {
+    width: 700px;
+    position: absolute;
+    left: 5vw;
+    top: 10vh;
+    text-shadow: 2px 2px 5px black, 0 0 100px ivory, 0 0 50px blanchedalmond;
+
+}
